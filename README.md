@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaoru-ko
 - 🌱 I’m currently learning c++
-- 📫 How to reach me mi.hatsune26@gmail.com
+- 📫 How to reach me livia.azz25@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: im computer control major and alr learn abt c++
+- ⚡ Fun fact: im computer control major and alr learn abt arduino for now
